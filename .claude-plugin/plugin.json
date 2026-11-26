@@ -1,0 +1,28 @@
+{
+  "name": "groundsocial-skills",
+  "version": "1.0.0",
+  "description": "Social media research skills for AI agents on the Groundsocial API: brand mentions, competitor audits, creator vetting, subreddit research, TikTok trends, YouTube transcripts and comment mining.",
+  "author": {
+    "name": "Groundsocial",
+    "url": "https://groundsocial.dev"
+  },
+  "homepage": "https://groundsocial.dev",
+  "repository": "https://github.com/shivanshmehendiratta/groundsocial-skills",
+  "license": "MIT",
+  "keywords": [
+    "social-media",
+    "research",
+    "reddit",
+    "tiktok",
+    "youtube",
+    "influencer",
+    "social-listening",
+    "groundsocial"
+  ],
+  "mcpServers": {
+    "groundsocial": {
+      "type": "http",
+      "url": "https://api.groundsocial.dev/mcp"
+    }
+  }
+}
